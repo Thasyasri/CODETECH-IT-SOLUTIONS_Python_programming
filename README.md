@@ -13,4 +13,4 @@ The final task focused on developing a Password Generator application—a handy 
 
 Each task within this repository reflects my dedication to mastering Python programming and showcases a unique set of skills and experiences. Through hands-on projects like these, I've honed my problem-solving abilities, improved my understanding of Python's syntax and libraries, and expanded my knowledge of software development concepts. Feel free to explore each task and witness the progression of my skills in this exciting journey of Python programming.
 
-Connect with me on LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/thasyasrikhandrika/](https://www.linkedin.com/in/thasya-sri-khandrika-4074b025b/)https://www.linkedin.com/in/thasya-sri-khandrika-4074b025b/)
+Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/thasya-sri-khandrika-4074b025b/)
